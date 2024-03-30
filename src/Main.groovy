@@ -1,4 +1,4 @@
 println getData()
 private int getData() {
-    return 2
+    return 12
 }
